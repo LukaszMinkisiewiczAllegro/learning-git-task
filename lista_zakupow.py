@@ -6,3 +6,4 @@ for sklep, lista in zakupy.items():
     x += len(lista)
 
 print(f'W sumię kupię {x} przedmiotów')
+print("pierwszy commit")
