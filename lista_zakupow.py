@@ -8,3 +8,4 @@ for sklep, lista in zakupy.items():
 print(f'W sumię kupię {x} przedmiotów')
 print("pierwszy commit")
 print("drugi commit")
+print("dodatkowy commit")
