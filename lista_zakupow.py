@@ -9,3 +9,6 @@ print(f'W sumię kupię {x} przedmiotów')
 print("pierwszy commit")
 print("drugi commit")
 print("dodatkowy commit")
+
+for n in "Word":
+    print(n)
