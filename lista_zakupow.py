@@ -12,3 +12,5 @@ print("dodatkowy commit")
 
 for n in "Word":
     print(n)
+
+print('Pozdrowienia dla ziomeczka')
